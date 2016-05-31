@@ -13,7 +13,6 @@ Option 2 selected
 
 ![](a3.jpg)
 
-
 Option 3 selected
 
 ![](a4.jpg)
