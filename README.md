@@ -9,14 +9,14 @@ Option 1 selected
 cannot ask user to input anything yet..
 ![](a2.jpg)
 
-Option 2 selected
+Option 2 selected cannot ask user to input anything yet..
 
 ![](a3.jpg)
 
-Option 3 selected
+Option 3 selected, exits perfectly!
 
 ![](a4.jpg)
 
-Invalid option selected
+Invalid option selected, works as well.
 
 ![](a5.jpg)
