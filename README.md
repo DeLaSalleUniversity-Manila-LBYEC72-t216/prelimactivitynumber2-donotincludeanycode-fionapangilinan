@@ -2,6 +2,7 @@
 prelimactivitynumber2-donotincludeanycode-fionapangilinan created by GitHub Classroom
 
 main menu
+
 ![](a1.jpg)
 
 Option 1 selected
