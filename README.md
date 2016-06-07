@@ -15,37 +15,49 @@ Updated June 7, 2016
 Main Menu
 
 ![](p21.jpg)
+
 Formula 1
 
 ![](p22.jpg)
+
 Compute for Pressure
 
 ![](p23.jpg)
+
 Compute for moles
 
 ![](p24.jpg)
+
 Compute for Volume
 
 ![](p25.jpg)
+
 Compute for Temperature
 
 ![](p26.jpg)
+
 ---goes back to formula selection screen---
+
 Formula 2
 
 ![](p27.jpg)
+
 Compute for length
 
 ![](p28.jpg)
+
 Compute for width
 
 ![](p29.jpg)
+
 Compute for height
 
 ![](p30.jpg)
+
 Compute for volume
 
 ![](p31.jpg)
+
 ---goes back to formula selection screen---
 
 Chocie 3 = Exit
