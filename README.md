@@ -36,7 +36,7 @@ Compute for Temperature
 
 ![](p26.jpg)
 
----goes back to formula selection screen---
+---goes back to formula selection screen then selects choice 2---
 
 Formula 2
 
